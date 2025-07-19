@@ -1,8 +1,8 @@
 {
-  "yazilim_surumu": "2.0.0",
-  "yazilim_kod": 200,
-  "catJ_surumu": "2.0.0",
-  "catJ_kod": 200,
-  "braFile_surumu": "2.0.0",
+  "yazilim_surumu": "1.0.0",
+  "yazilim_kod": 100,
+  "catJ_surumu": "1.0.0",
+  "catJ_kod": 100,
+  "braFile_surumu": "1.0.0",
   "braFile_kod": 200
 }
