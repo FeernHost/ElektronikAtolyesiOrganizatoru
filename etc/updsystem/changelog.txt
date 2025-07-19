@@ -1,10 +1,7 @@
-VERSION 1.0.0
+VERSION 1.0.1
 
--Güncelleme sistemi eklendi.
--Ekleme sistemi eklendi.
--Kaydetme sistemi düzeltildi.
--Arama sistemi eklendi.
--GitHub kütüphanesi aktifleştirildi.
--Tabloya kaydedilince gereksiz olarak gözüken "Id" değeri gizlendi.
--Hızlı Stok Gir sistemi eklendi.
--Silme sistemi düzeltildi.
+-Güncelleme sistemi düzeltildi.
+-Veritabanı bağlantı sorunu çözüldü.
+-Hızlı Stok Düzeltme menüsü çalışmama sorunu çözüldü
+-Null -1 değeri hatası çözüldü.
+-Ufak sorunlar giderildi.
